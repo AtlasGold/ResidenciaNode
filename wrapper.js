@@ -5,6 +5,7 @@
 
 function wrapper(num){
 
+    num = process.argv[2]
     const number1 = require('extenso')
 
     const number2 = require('numero-por-extenso');
