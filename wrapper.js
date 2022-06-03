@@ -10,8 +10,8 @@ function wrapper(num){
 
     const number2 = require('numero-por-extenso');
     
-    return number1(num), number2.porExtenso(num)
+    console.log( `${number2.porExtenso(num)} primeiro \n,${number1(num)} segundo `)
 }
 
 
-console.log(wrapper())
+wrapper()
