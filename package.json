@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "amount-to-words": "^1.1.0",
     "extenso": "^2.0.1",
+    "n-extenso": "^1.0.0",
     "node": "^17.7.2",
+    "num2word": "^1.0.2",
     "number-to-words": "^1.2.4",
     "numero-por-extenso": "^1.0.8",
     "passport": "^0.6.0",

@@ -1,8 +1,7 @@
 module.exports = {
-    "um cento" : 100,
     "cento": 100,
-
     "duzentas": 200,
+
     "duzentos": 200,
 
     "trezentas": 300,
