@@ -1,7 +1,7 @@
 //funcionando ok
 
 function one(num){
-    num = process.argv[2]
+    num = process.agrv[2]
 
 
     const number1 = require('extenso');
