@@ -1,12 +1,15 @@
 //funcionando ok
-function wrapper(num){
- 
 
+function one(num){
     num = process.argv[2]
+
+
     const number1 = require('extenso');
                 
     console.log(number1(num)) 
 
 }
 
-wrapper()
+one()
+
+module.exports = one;
