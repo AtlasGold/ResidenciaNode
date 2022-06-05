@@ -1,3 +1,5 @@
+
+
 function wrapper(num){
  
 
@@ -15,18 +17,23 @@ function wrapper(num){
 
         const number6 = require('amount-to-words');
 
+        //number6 
+        
+
         const number7 = require('num2words');
 
         const number8 = require('num-words-de');
                     
-        console.log(number1(num)) 
-        console.log(number2.porExtenso(num))
-        console.log(number3.porExtenso(num))
-        console.log(number4.toWords(num))
-        console.log(number5(num))
-        console.log(number6.numberToWords(num))
-        console.log(number7.numToWords(num))
-        console.log(number8.numToWord(num))
+        console.log(number1(num)) //ok
+        console.log(number2.porExtenso(num)) //ok
+        console.log(number3.porExtenso(num)) //ok
+        console.log(number4.toWords(num)) //ok
+        console.log(number5(num)) //ok
+
+        console.log(number8.numToWord(num))//ok
+
+        //console.log(numberToWords(num)) numero6
+        //console.log(number7.numToWords(num))
 
 }
 
