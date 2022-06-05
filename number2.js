@@ -1,7 +1,10 @@
+//parte de isa
+//funcionando ok
+
 const numero = require('numero-por-extenso');
-function npm2(b) {
+function two(b) {
   b = 12
   console.log(numero.porExtenso(b))
   }
 
-  npm2()
+  two()
