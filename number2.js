@@ -8,3 +8,5 @@ function two(b) {
   }
 
   two()
+
+module.exports = two
