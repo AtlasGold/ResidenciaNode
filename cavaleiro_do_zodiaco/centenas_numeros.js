@@ -23,6 +23,16 @@ module.exports = {
     "oitocentas": 800,
 
     "novecentos": 900,
-    "novecentas": 900
+    "novecentas": 900,
+    
+    "mil": 1000,
+
+    "milhao": 1000000,
+
+    "bilhao": 1000000000,
+
+    "trilhao": 1000000000000,
+
+    "quadrilhao": 1000000000000000
 
   }

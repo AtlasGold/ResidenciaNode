@@ -28,5 +28,24 @@ console.log(centenas.cento)
     console.log(centenas.oitocentos)
 }else if(word =='novecentos' || word == `novecentas`){
     console.log(centenas.novecentos)
+}else if(word == 'mil'){
+    console.log(centenas.mil)
+} //eu vou ter que sair 
+// mega vontade de cagar 
+//foda meu parceiro, hj eu vou ficar doidão de pinga
+// vcs fiquem sobrios
+//o pessoal n sei se ta cagando
+// mas eu to quase
+//licensa 
+else if (word == 'milhão'|| 'word == milhões'){
+    console.log(centenas.milhao)
 }
-
+else if(word == 'bilhão' || word == 'bilhões' ){
+    console.log(centenas.bilhao)
+}
+else if(word == 'trilhão' || word == 'trilhões'){
+    console.log(centenas.trilhao)
+}
+else if(word == 'quadrilhão' || word == 'quadrilhões'){
+    console.log(centenas.quadrilhao)
+}

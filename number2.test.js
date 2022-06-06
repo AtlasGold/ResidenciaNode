@@ -1,5 +1,5 @@
-require('rootpath')()
-const two = require('./number2')
-test('Teste com num ordinario', () => {
- expect(two(12)).toBe('doze');
-});
+test("básico", async function() {
+    let b = 128
+    expect(index.npm2(b)).toBe('cento e vinte e oito');
+  
+  });
